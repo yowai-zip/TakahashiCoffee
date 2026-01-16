@@ -1,0 +1,15 @@
+{
+  "name": "takahashicoffee",
+  "version": "1.0.0",
+  "description": "drink coffee everyday!",
+  "keywords": [
+    "\\"
+  ],
+  "license": "ISC",
+  "author": "yowai-zip",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
